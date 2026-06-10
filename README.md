@@ -1,19 +1,19 @@
-## Hi 👋, I’m Sushma
+## Hi 👋, I'm Sushma
+Software Engineer building full stack applications across banking and insurance.  
+I enjoy working on complete systems — from APIs and databases to cloud infrastructure and frontend.
 
-Full Stack Developer with hands-on experience building and shipping applications across web, cloud, and iOS.  
-I enjoy working on complete systems — from APIs and data models to deployment and user-facing features.
-
-- 🎓 Master’s in Information Systems @ Northeastern University  
-- Former Integration Developer @ Happiest Minds Technologies  
-- Full stack web applications  
-- Cloud applications deployed on AWS  
-- iOS applications using Swift & SwiftUI 
+- 🎓 Master's in Information Systems @ Northeastern University  
+- 💼 Software Engineer @ Santander Bank  
+- 💼 Former Software Engineer @ Happiest Minds Technologies  
+- 🐍 Python, FastAPI, React, AWS, Docker, CI/CD  
+- ☁️ Cloud migration and infrastructure on AWS  
+- 🔗 Microservices and REST APIs in production
 
 
 ## 🔗 Links
 
 - Portfolio: https://sushma-kunjangada-arun-portfolio.netlify.app  
-- Resume: [Resume Link](https://drive.google.com/file/d/1_wpVS4Vf_zG3hhSMj7-Vki9ekJJZNncn/view )
+- Resume: [Resume Link](https://drive.google.com/file/d/1DfhuIK78UgEFMf29UnRwbqwvNuyMM_XU/view?usp=sharing)
 - ☁️ Cloud Project (AWS): https://github.com/Sushma-Kunjangada-Arun-Iac
 
 

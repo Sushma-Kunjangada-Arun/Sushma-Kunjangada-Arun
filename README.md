@@ -13,7 +13,7 @@ I enjoy working on complete systems — from APIs and databases to cloud infrast
 ## 🔗 Links
 
 - Portfolio: https://sushma-kunjangada-arun-portfolio.netlify.app  
-- Resume: [Resume Link](https://drive.google.com/file/d/1DfhuIK78UgEFMf29UnRwbqwvNuyMM_XU/view?usp=sharing)
+- Resume: [Resume Link](https://drive.google.com/file/d/1kFDoeA-HGWnq_nR4KsWkma-SLuaD17Q5/view?usp=drivesdk)
 - ☁️ Cloud Project (AWS): https://github.com/Sushma-Kunjangada-Arun-Iac
 
 
